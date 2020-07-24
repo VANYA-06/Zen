@@ -1,0 +1,9 @@
+
+WHY WE HAVE DIFFERENT TYPE OF TAGS IN HTML?
+
+Heading tag: It is used to define the heading of html document. 
+
+Paragraph tag: It is used to define paragraph content in html document. 
+
+Emphasis tag: It is used to renders as emphasized text. Bold tag: It is used to specify bold content in html document.
+
